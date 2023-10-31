@@ -404,7 +404,7 @@ class: inverse, middle
 
 Per me: [infermieristicaPRIMA](https://app.wooclap.com/events/infermieristicaPRIMA/0)
 
-Per voi: <img src="img/bit.ly_infermieristica-primo-sondaggio-1.png" width="300px" style="vertical-align: middle"/> [https://bit.ly/infermieristica-primo-sondaggio-1](https://bit.ly/infermieristica-primo-sondaggio-1)
+Per voi: <img src="img/bit.ly_infermieristica-primo-sondaggio-1.png" width="250px" style="vertical-align: middle"/> [https://bit.ly/infermieristica-primo-sondaggio-1](https://bit.ly/infermieristica-primo-sondaggio-1)
 
 
 ---
@@ -846,7 +846,7 @@ class: inverse, middle
 
 Per me: [infermieristicaSECONDA](https://app.wooclap.com/events/infermieristicaSECONDA/0)
 
-Per voi:  <img src="img/bit.ly_infermieristica-secondo-sondaggio.png" width="300px" style="vertical-align: middle"/> [https://bit.ly/infermieristica-secondo-sondaggio](https://bit.ly/infermieristica-secondo-sondaggio)
+Per voi:  <img src="img/bit.ly_infermieristica-secondo-sondaggio.png" width="250px" style="vertical-align: middle"/> [https://bit.ly/infermieristica-secondo-sondaggio](https://bit.ly/infermieristica-secondo-sondaggio)
 
 
 ---

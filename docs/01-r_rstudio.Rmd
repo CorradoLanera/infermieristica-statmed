@@ -510,7 +510,7 @@ Consigli:
 - andare in bagno
 
 ```{r, echo = FALSE}
-countdown(minutes = 20, warn_when = 3, play_sound = TRUE,
+countdown(minutes = 15, warn_when = 3, play_sound = TRUE,
           left = "65%", bottom = "5%")
 ```
 

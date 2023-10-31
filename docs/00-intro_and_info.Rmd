@@ -305,25 +305,17 @@ Cinque lezioni da 4 _ore_ ciascuna
  + [15'] PAUSA
  + (75') Lezione
 
-> Argomenti riportati mano a mano che verranno svolti.
+> Argomenti riportati mano a mano che verranno svolti nella [homepage](https://bit.ly/infermieristica-23-slide).
 </small>
 </small>
 
----
-class: hide-count
-
-
-# .orange[Organizzazione della lezione]
+## .orange[Organizzazione della lezione]
 
 Le lezioni saranno frontali, con l'ausilio di diapositive messe a
 disposizione il giorno della lezione, (e soggette a modifica o correzione, 
 a seguito della stessa).
 
 Sono graditi e caldeggiati gli interventi e le domande.
-
-- Primi 20 minuti vostre domande e risposte
-- Una **pausa** da 20 minuti circa a metà lezione
-- Ultima mezz'ora esercizi
 
 
 
