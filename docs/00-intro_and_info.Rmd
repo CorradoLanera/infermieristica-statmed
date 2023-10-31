@@ -1,6 +1,6 @@
 ---
-title: "Informatica, Statistica, e Fisica Applicata"
-subtitle: "Corso di laurea in ORTOTTICA E ASSISTENZA OFTALMOLOGICA"
+title: "Management, Medicina Legale, Epidemiologia e Statistica"
+subtitle: "Corso di laurea in Infermierisitca"
 author: "[CorradoLanera](www.CorradoLanera.it)"
 date: "YYYY-MM-DD (last update: `r Sys.Date()`)"
 institute: "[Unità di Biostatistica, Epidemiologia e Salute Pubblicah](https://www.unipd-ubep.it/) --- University of Padova"
@@ -17,8 +17,8 @@ output:
 class: center, middle, bg_title, hide-count
 
 
-<img src="img/logo_800anni.png" width="150px"/>
-<img src="img/DSCTV.png" width="50px"/>
+<img src="img/unipd_logo.png" width="120px"/>
+<img src="img/DCTV.png" width="50px"/>
 <img src="img/UBEP.png" width="50px"/>
 <img src="img/LAIMS.png" width="50px"/>
 
@@ -61,6 +61,7 @@ use_extra_styles(
   mute_unhighlighted_code = TRUE  #<<
 )
 use_progress_bar(color = "#0051BA", location = "top")
+use_logo("img/bit.ly_infermierisitca-23-slide.png")
 ```
 
 ```{r style-share-again, echo=FALSE}
@@ -73,14 +74,14 @@ style_share_again(
 ```{r meta, echo=FALSE}
 meta() %>%
   meta_general(
-    description = "Modulo di STATISTICA MEDICA del corso in INFORMATICA, STATISTICA, E FISICA APPLICATA per il corso di laurea in ORTOTTICA E ASSISTENZA OFTALMOLOGICA",
+    description = "Modulo di STATISTICA MEDICA del corso in Management, Medicina Legale, Epidemiologia e Statistica per il corso di laurea in Infermierisitca",
     generator = "xaringan and remark.js"
   ) %>% 
-  meta_name("github-repo" = "CorradoLanera/ORTOTTICA") %>% 
+  meta_name("github-repo" = "CorradoLanera/infermieristica") %>% 
   meta_social(
-    title = "Informatica, Statistica, e Fisica Apllicata",
-    url = "https:///ortottica-slide22",
-    image = "https://github.com/CorradoLanera/ortottica/raw/main/docs/img/cover.jpg",
+    title = "Management, Medicina Legale, Epidemiologia e Statistica",
+    url = "https:///infermieristica-23-slide",
+    image = "https://github.com/CorradoLanera/infermieristica/raw/main/docs/img/cover.jpg",
     og_type = "website",
     og_author = "UBEP",
     twitter_card_type = "summary",
@@ -161,16 +162,16 @@ style_duo_accent(
 <br>
 <br>
 
-# **INFORMATICA, STATISTICA, E FISICA APPLICATA**<br>**.orange[STATISTICA MEDICA]**
+# **Management, Medicina Legale, Epidemiologia e Statistica**<br>**.orange[STATISTICA MEDICA]**
 
 -- Presentazione e informazioni generali --
 <br>
 <br>
 <br>
 
-C.d.L. **Ortottica e Assistenza Oftalmologica**
+C.d.L. **Infermierisitca**
 
-Padova, a.a. 2022/2023 - 20 ore (2 crediti)
+Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 
 Corrado Lanera | [**Unità di Biostatistica, Epidemiologia e Salute Pubblic**](https://www.unipd-ubep.it/)
 
@@ -261,14 +262,9 @@ class: hide-count
 - Modalità: in presenza, con possibilità di seguire da remoto per
  giustificati motivi
 
-- Zoom: [bit.ly/ortottica-zoom22](https://bit.ly/ortottica-zoom22),
-  accessibile anche dal link sul Moodle del corso.
+- Materiale didattico: Moodle [bit.ly/infermierisitca-23-moodle](https://bit.ly/infermierisitca-23-moodle)
 
-- Materiale didattico: Moodle [bit.ly/ortottica-moodle22](https://bit.ly/ortottica-moodle22)
-
-- Portale accesso slide: [bit.ly/ortottica-slide22](https://bit.ly/ortottica-slide22)
-
-- Registrazioni: Disponibili dopo la lezione sul Moodle del corso.
+- Portale accesso slide: [bit.ly/infermierisitca-23-slide](https://bit.ly/infermierisitca-23-slide)
 
 - Utilizzo del materiale del corso e suoi derivati: consentite e libero
   sotto licenza 
@@ -295,38 +291,22 @@ class: hide-count
 <small>
 <small>
 
-Cinque lezioni da 4 _ore_ ciascuna (180' effettivi)
+Cinque lezioni da 4 _ore_ ciascuna
 
-- Lezione 1: martedì 18 ottobre 2022 - 14:30-18:30
+- Lezione 1: mercoledì 18 ottobre 2022 - 08:30-12:30
   + (60') intro al corso
   + (60') intro a R/RStudio (facoltativo, non oggetto di esame)
-  + (60') statistica descrittiva - prerequisiti e definizioni
-  
-- Lezione 2: martedì 25 ottobre 2022 - 14:30-18:30
-  + (30') ricapitolazione, domande, dubbi e perplessità
-  + (90') statistica descrittiva - misure
-  + (60') statistica descrittiva - rappresentazione
+  + [20'] PAUSA
+  + (100') statistica descrittiva - prerequisiti e definizioni
 
-- Lezione 3: martedì 8 novembre 2022 - 14:30-18:30
-  + (30') ricapitolazione, domande, dubbi e perplessità
-  + (60') basi di probabilità
-  + (30') rischi
-  + (60') test di screening e teorema di Bayes
+- Lezione 2-5:
+ + (20') Domande dubbi perplessità
+ + (80') Lezione
+ + [20'] PAUSA
+ + (90') Lezione
+ + (30') Esercizi
 
-- Lezione 4: martedì 15 novembre 2022 - 14:30-18:30
-  + (30') ricapitolazione, domande, dubbi e perplessità
-  + (60') modelli/distribuzioni per variabili discrete
-  + (60') modelli/distribuzioni per variabili continue
-  + (30') trasformazioni e approssimazioni
-
-- Lezione 5: martedì 22 novembre 2022 - 14:30-18:30
-  + (30') ricapitolazione, domande, dubbi e perplessità
-  + (60') inferenza e stime: intervalli di confidenza
-  + (60') inferenza e stime: test d'ipotesi
-  + (30') domande e chiarimenti conclusivi, accordi per l'esame
-
-> Adattamenti potranno avvenire in funzione dell'andamento del corso e degli interessi
-riscontrati o utili.
+> Argomenti riportati mano a mano che verranno svolti.
 </small>
 </small>
 
@@ -342,10 +322,9 @@ a seguito della stessa).
 
 Sono graditi e caldeggiati gli interventi e le domande.
 
-Due **pause** da mezz'ora:
-- una "reale", circa a metà della lezione
-- una "iniziale o conclusiva".
-
+- Primi 20 minuti vostre domande e risposte
+- Una **pausa** da 20 minuti circa a metà lezione
+- Ultima mezz'ora esercizi
 
 
 
@@ -378,7 +357,7 @@ loro utilizzo corretto o errato nel produrre i risultati).
 
 
 Un ambiente di lavoro per ciascuno di voi è attivabile e utilizzabile
-gratuitamente su RStudio Cloud collegandosi all'indirizzo: [bit.ly/ortottica-rscloud22](https://bit.ly/ortottica-rscloud22)
+gratuitamente su RStudio Cloud collegandosi all'indirizzo: [bit.ly/infermieristica-rstudio](https://bit.ly/infermieristica-rstudio)
 
 
 
@@ -400,19 +379,20 @@ confrontarsi tra loro sui temi del corso e lo svolgimento degli esercizi
 domande (e risposte!) ai vostri dubbi, nell'interesse di ciascuno e tutti
 voi.
 
-- **Esercizi** di autoapprendimento: a disposizione un numero non
-predefinito di esercizi svolti e commentati per l'autoapprendimento
+- **Esercizi** svolti a fine di ogni lezione (tranne la prima) e inseriti
+altri di autoapprendimento: a disposizione su moodle
 
 
-- **Ricevimento**: i giovedì tra le 17:00 e le 18:30, sono disponibile a 
+- **Ricevimento**: i giovedì tra le 17:00 e le 19:00 e venerdì
+  dalle 9:00 alle 11:00, sono disponibile a 
   ricevere gli studenti per 25 minuti a sessione, prenotabile con almeno 
-  tre giorni di anticipo, ed entro tre settimane, tramite il link
+  tre giorni di anticipo, ed entro due settimane, tramite il link
   (disponibile su Moodle e riservato esclusivamente agli studenti del
   corso):
   
-  [bit.ly/ortottica-ricevimento22](https://bit.ly/ortottica-ricevimento22).
+  [bit.ly/infermieristica-ricevimento](https://bit.ly/infermieristica-ricevimento).
   
-> La settimana precedente una sessione d'esame non è attivo il ricevimento.
+> La settimana precedente le sessioni d'esame non è attivo il ricevimento.
 
 
 
@@ -424,13 +404,13 @@ class: hide-count
 
 # .orange[Esame finale]
 <small>
-L'esame finale sarà composto da **esercizi a risposta multipla**.
-Sarà svolto online, auto-corretto, su piattaforma Moodle o cartaceo in
-modo tradizionale, a scelta dello studente.
-**Non avrà durata prestabilita**, ma nei primi 15' sarà possibile
-solo leggere le domande, senza poter rispondere.
+L'esame finale sarà composto da **esercizi a risposta multipla**, su foglio di carta.
 
-Durante lo svolgimento dell'esame sarà concesso l'utilizzo di **qualunque libro di testo cartaceo, appunti personali cartacei, e dei software R ed Rstudio** (messi a disposizione, per chiunque lo desideri, da me, con accesso tramite browser web). Sarà invece **.orange[proibita la navigazione e la ricerca on-line]**, così come **.orange[l'utilizzo di smartphone]** o la **.orange[comunicazione con terzi]**.
+> **Non avrà durata prestabilita**
+
+Durante lo svolgimento dell'esame sarà concesso l'utilizzo di **qualunque libro di testo cartaceo, appunti personali cartacei, e dei software R ed Rstudio** (messi a disposizione, per chiunque lo desideri, da me, con accesso tramite browser web).
+
+Sarà invece **.orange[proibita la navigazione e la ricerca on-line]**, così come **.orange[l'utilizzo di smartphone]** o la **.orange[comunicazione con terzi]**.
 
 Una risposta errata sommerà negativamente sul totale in misura pari al punteggio attribuito alla domanda, diviso per il numero di opzioni sbagliate selezionabili.
 
@@ -454,6 +434,8 @@ risolvere in gruppo.
 
 - Esplorate (e proponete) esercizi con dati anche sui vostri ambiti
   di interesse.
+  
+> Non sottovalutate l'esame confondendo la mia disponibilità a darvi tutto il supporto che ritenete utile (prima dell'esame)!
 
 ---
 class: hide-count
@@ -480,7 +462,7 @@ class: hide-count
 <br><br>
 
 > Un ringraziamento speciale a Cristiana Vettori per
-l'aiuto e il supporto logistico e amministrativo che mi è stato offerto.
+l'aiuto e il supporto logistico e amministrativo che mi ha sempre e ancora offerto.
 
 ---
 class: inverse, bottom, right, hide-count
@@ -501,7 +483,7 @@ knitr::include_graphics("img/profilo_CL.jpg")
 [`r fontawesome::fa("telegram")`](https://telegram.me/CorradoLanera)
 **@CorradoLanera**
 
-[`r fontawesome::fa("calendar-check")` ](https://bit.ly/ortottica-ricevimento22) [**bit.ly/ortottica-ricevimento22**](https://bit.ly/ortottica-ricevimento22)
+[`r fontawesome::fa("calendar-check")` ](https://bit.ly/infermieristica-ricevimento) [**bit.ly/infermieristica-ricevimento**](https://bit.ly/infermieristica-ricevimento)
 
 
 
@@ -520,16 +502,12 @@ _**Can** one be a .orange[good data analyst] **without** being a .orange[half-go
 ]
 ]
 
-<br>
 
 # .orange[Domande?]
 
 
 
-<br>
-<br>
-
-Diapositive: [bit.ly/ortottica-slide22](https://bit.ly/ortottica-slide22)
+Diapositive: <img src="img/bit.ly_infermierisitca-23-slide.png" width="150px" style="vertical-align: middle"/> [bit.ly/infermierisitca-23-slide](https://bit.ly/infermierisitca-23-slide)
 
 
 [`r fontawesome::fa("link")`](https://www.unipd-ubep.it/) [**www.unipd-ubep.it**](https://www.unipd-ubep.it/) | 
@@ -539,6 +517,6 @@ Diapositive: [bit.ly/ortottica-slide22](https://bit.ly/ortottica-slide22)
 [`r fontawesome::fa("twitter")`](https://twitter.com/corradolanera)
 [`r fontawesome::fa("telegram")`](https://telegram.me/CorradoLanera)
 **@CorradoLanera** |
-[`r fontawesome::fa("calendar-check")` ](https://bit.ly/ortottica-ricevimento22) [**bit.ly/ortottica-ricevimento22**](https://bit.ly/ortottica-ricevimento22)
+[`r fontawesome::fa("calendar-check")` ](https://bit.ly/infermieristica-ricevimento) [**bit.ly/infermieristica-ricevimento**](https://bit.ly/infermieristica-ricevimento)
 
 
