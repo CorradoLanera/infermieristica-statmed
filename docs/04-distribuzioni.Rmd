@@ -1,6 +1,6 @@
 ---
 title: "Management, Medicina Legale, Epidemiologia e Statistica"
-subtitle: "Corso di laurea in Infermierisitca"
+subtitle: "Corso di laurea in infermieristica"
 author: "[CorradoLanera](www.CorradoLanera.it)"
 date: "YYYY-MM-DD (last update: `r Sys.Date()`)"
 institute: "[Unità di Biostatistica, Epidemiologia e Salute Pubblicah](https://www.unipd-ubep.it/) --- University of Padova"
@@ -62,7 +62,7 @@ use_extra_styles(
   mute_unhighlighted_code = TRUE  #<<
 )
 use_progress_bar(color = "#0051BA", location = "top")
-use_logo("img/bit.ly_infermierisitca-23-slide.png")
+use_logo("img/bit.ly_infermieristica-23-slide.png")
 ```
 
 ```{r style-share-again, echo=FALSE}
@@ -75,7 +75,7 @@ style_share_again(
 ```{r meta, echo=FALSE}
 meta() %>%
   meta_general(
-    description = "Modulo di STATISTICA MEDICA del corso in Management, Medicina Legale, Epidemiologia e Statistica per il corso di laurea in Infermierisitca",
+    description = "Modulo di STATISTICA MEDICA del corso in Management, Medicina Legale, Epidemiologia e Statistica per il corso di laurea in infermieristica",
     generator = "xaringan and remark.js"
   ) %>% 
   meta_name("github-repo" = "CorradoLanera/infermieristica") %>% 
@@ -171,7 +171,7 @@ style_duo_accent(
 <br>
 <br>
 
-C.d.L. **Infermierisitca**
+C.d.L. **infermieristica**
 
 Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 
