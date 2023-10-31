@@ -293,18 +293,17 @@ class: hide-count
 
 Cinque lezioni da 4 _ore_ ciascuna
 
-- Lezione 1: mercoledì 18 ottobre 2022 - 08:30-12:30
+- Lezione 1: oggi
   + (60') intro al corso
   + (60') intro a R/RStudio (facoltativo, non oggetto di esame)
-  + [20'] PAUSA
-  + (100') statistica descrittiva - prerequisiti e definizioni
+  + [15'] PAUSA
+  + (45') statistica descrittiva - prerequisiti e definizioni
 
 - Lezione 2-5:
- + (20') Domande dubbi perplessità
- + (80') Lezione
- + [20'] PAUSA
- + (90') Lezione
- + (30') Esercizi
+ + (15') Domande/dubbi/perplessità/esercizi
+ + (75') Lezione
+ + [15'] PAUSA
+ + (75') Lezione
 
 > Argomenti riportati mano a mano che verranno svolti.
 </small>
