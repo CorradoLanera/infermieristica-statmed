@@ -171,7 +171,8 @@ Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 2023/10/31    | Intro e info             | [Intro e info](00-intro_and_info.html)
 2023/10/31    | R e RStudio              | [R e RStudio](01-r_rstudio.html)
 2023/10/31    | Descrittive              | [Descrittive](02-descrittive.html)
-    | Probabilità              |
+2023/11/07    | Descrittive              | 
+2023/11/07    | Probabilità              | [Probabilità](03-probabilita.html)
     | Distribuzioni            |
     | Inferenza, IC e p-value  |
 
