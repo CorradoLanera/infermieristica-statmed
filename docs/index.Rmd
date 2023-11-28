@@ -164,7 +164,7 @@ C.d.L. **infermieristica**
 
 Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 
-<small>
+<small><small>
 
 **Giorno**    | **Tema**                 | **Diapositive**
 -------------:|:-------------------------|:--------------------
@@ -173,10 +173,11 @@ Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 2023/10/31    | Descrittive              | [Descrittive](02-descrittive.html)
 2023/11/07    | Descrittive              | 
 2023/11/07    | Probabilità              | [Probabilità](03-probabilita.html)
-    | Distribuzioni            |
+2023/11/29    | Probabilità              |
+2023/11/29    | Distribuzioni            | [Distribuzioni](04-distribuzioni.html)
     | Inferenza, IC e p-value  |
 
-</small>
+</small></small>
 
 Corrado Lanera | [**Unità di Biostatistica, Epidemiologia e Salute Pubblica**](https://www.unipd-ubep.it/)
 
