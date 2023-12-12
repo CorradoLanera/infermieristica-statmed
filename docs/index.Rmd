@@ -175,8 +175,8 @@ Padova, a.a. 2023/2024 - 20 ore (2 crediti)
 2023/11/29    | Descrittive              | 
 2023/11/29    | Probabilità              | [Probabilità](03-probabilita.html)
 2023/12/06    | Probabilità              |
-2023/12/06    | Distribuzioni            | [Distribuzioni](04-distribuzioni.html)
-    | Inferenza, IC e p-value  |
+2023/12/12    | Distribuzioni            | [Distribuzioni](04-distribuzioni.html)
+2023/12/12    | Inferenza, IC e p-value  | [IC e P-value](05-ic_p.html)
 
 </small></small></small>
 
